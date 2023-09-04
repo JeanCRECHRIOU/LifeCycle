@@ -1,0 +1,35 @@
+# Répertoires
+bin/
+obj/
+packages/
+
+# Fichiers temporaires
+[Tt]emp/
+[Vv][Ss][Dd][Cc]ache/
+[Ss]tats/
+[Ex]x[Ll]/
+[Bb]in/
+[Ll]og/
+[Ll]ogFiles/
+
+# Fichiers de configuration locaux
+*.suo
+*.user
+*.sln.docstates
+
+# Packages NuGet
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Fichiers de solution
+*.suo
+*.user
+*.sln.docstates
+
+# Fichiers de cache
+[Tt]humbs.db
+[Dd]esktop.ini
